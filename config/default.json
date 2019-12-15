@@ -1,0 +1,7 @@
+{
+  "resolversPath": "/resolvers/*Resolver.ts",
+  "port": 4000,
+  "nhl": {
+    "url": "https://statsapi.web.nhl.com/api/v1"
+  }
+}
