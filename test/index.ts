@@ -1,10 +1,10 @@
 import { server, boot } from '../src'
-// import nock from 'nock'
+import nock from 'nock'
 
 before(function (done) {
   boot.then(() => {
-    // nock.disableNetConnect()
-    // nock.enableNetConnect('localhost:4001')
+    nock.disableNetConnect()
+    nock.enableNetConnect('localhost:4001')
     done()
   })
 })
