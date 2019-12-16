@@ -5,8 +5,13 @@
   "main": "index.js",
   "scripts": {
     "test": "NODE_ENV=test npx mocha --exit --opts test/mocha.opts test/unit/**/*.ts test/integration/**/*.ts",
-    "dev": "env NODE_ENV=development nodemon --exec ts-node src/index.ts"
+    "dev": "env NODE_ENV=development nodemon --exec ts-node src/index.ts",
+    "lint": "npx tslint -c tslint.json --project tsconfig.json 'src/**/*.ts' 'test/**/*.ts'"
   },
+  "pre-commit": [
+    "lint",
+    "test"
+  ],
   "author": "",
   "license": "ISC",
   "devDependencies": {
@@ -15,6 +20,7 @@
     "mocha": "^6.2.2",
     "nock": "^11.7.0",
     "nodemon": "^2.0.2",
+    "pre-commit": "^1.2.2",
     "ts-node": "^8.5.4",
     "tslint": "^5.20.1",
     "tslint-config-standard-plus": "^2.3.0",

@@ -34,7 +34,7 @@ export default class NhlService {
       url: `${config.get('nhl.url')}/schedule`,
       params: {
         startDate: moment(startDate).format('YYYY-MM-DD'),
-        endDate: moment(endDate).format('YYYY-MM-DD'),
+        endDate: moment(endDate).format('YYYY-MM-DD')
       }
     })
     return result.data
