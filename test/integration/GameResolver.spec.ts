@@ -1,25 +1,19 @@
-import { client } from '../integration'
+import * as assert from 'assert'
+import nock from 'nock'
+import { getEarlyGames } from './gql/queries'
 
-const getEarlyGames = async () => {
-  const result = await client().request(`
-    query getEarlyGamesInWeek($weekStart: Date!) {
-      getEarlyGamesInWeek(weekStart: $weekStart) {
-        games {
-          startDate
-          homeTeamName
-          awayTeamName
-        }
-        date
-      }
-    }
-  `, { weekStart: '2019-12-09' })
-  return result.getEarlyGamesInWeek
-}
+// tslint:disable:no-require-imports
+const scheduleRes = require('../fixtures/scheduleRes.json')
+const expectedResponse = require('../fixtures/earlyGamesExpectedRes.json')
+// tslint:enable:no-require-imports
 
-
-describe('GameResolver', async () => {
+describe('Resolver', async () => {
   it('should return games', async () => {
-    const result = await getEarlyGames()
-    console.log('result', result)
+    nock('https://statsapi.web.nhl.com')
+      .get('/api/v1/schedule?startDate=2019-12-09&endDate=2019-12-15')
+      .reply(200, scheduleRes)
+
+    const result = await getEarlyGames('2019-12-09')
+    assert.deepStrictEqual(result, expectedResponse)
   })
 })

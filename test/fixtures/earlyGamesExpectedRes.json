@@ -1,0 +1,57 @@
+[
+  {
+    "games": [],
+    "date": "2019-12-09"
+  },
+  {
+    "games": [],
+    "date": "2019-12-10"
+  },
+  {
+    "games": [],
+    "date": "2019-12-11"
+  },
+  {
+    "games": [],
+    "date": "2019-12-12"
+  },
+  {
+    "games": [],
+    "date": "2019-12-13"
+  },
+  {
+    "games": [
+      {
+        "startDate": "2019-12-14T18:00:00.000Z",
+        "homeTeamName": "Ottawa Senators",
+        "awayTeamName": "Columbus Blue Jackets"
+      },
+      {
+        "startDate": "2019-12-14T18:00:00.000Z",
+        "homeTeamName": "New York Islanders",
+        "awayTeamName": "Buffalo Sabres"
+      },
+      {
+        "startDate": "2019-12-14T21:00:00.000Z",
+        "homeTeamName": "Anaheim Ducks",
+        "awayTeamName": "New York Rangers"
+      },
+      {
+        "startDate": "2019-12-14T21:00:00.000Z",
+        "homeTeamName": "Calgary Flames",
+        "awayTeamName": "Carolina Hurricanes"
+      }
+    ],
+    "date": "2019-12-14"
+  },
+  {
+    "games": [
+      {
+        "startDate": "2019-12-15T22:00:00.000Z",
+        "homeTeamName": "Winnipeg Jets",
+        "awayTeamName": "Philadelphia Flyers"
+      }
+    ],
+    "date": "2019-12-15"
+  }
+]
