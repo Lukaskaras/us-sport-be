@@ -28,7 +28,7 @@ export default class NhlService {
     return dates
   }
 
-  public async fetchGames(startDate: Date, endDate: Date): Promise<NhlScheduleRes> {
+  private async fetchGames(startDate: Date, endDate: Date): Promise<NhlScheduleRes> {
     const result: AxiosResponse<NhlScheduleRes> = await axios.request({
       method: 'GET',
       url: `${config.get('nhl.url')}/schedule`,
@@ -40,7 +40,7 @@ export default class NhlService {
     return result.data
   }
 
-  public getEarlyGamesFromDay (gameDay: NhlDate): NhlGame[] {
+  private getEarlyGamesFromDay (gameDay: NhlDate): NhlGame[] {
     return gameDay.games.filter(game => {
       const gameStart = new Date(game.gameDate)
       return gameStart.getHours() > 13 && gameStart.getHours() <= 23
