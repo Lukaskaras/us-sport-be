@@ -4,9 +4,16 @@ import { ApolloServer } from 'apollo-server'
 import { buildSchema } from 'type-graphql'
 import config from 'config'
 import { Container } from 'typedi'
+import mongoose from 'mongoose'
 
 let server
 async function bootstrap(): Promise<string> {
+  await mongoose.connect('mongodb://root:example@localhost:27017/', {
+    useNewUrlParser: true,
+    useUnifiedTopology: true,
+    dbName: 'default-db'
+  })
+
   const schema = await buildSchema({
     resolvers: [ __dirname + config.resolversPath ],
     container: Container
