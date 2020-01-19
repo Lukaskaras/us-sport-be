@@ -5,6 +5,18 @@ import Team, { TeamModel } from '../entities/Team'
 export default class TeamResolver {
   @Query(returns => [ Team ])
   public async getAllTeams() {
-    return TeamModel.find({})
+    const teams = await TeamModel.find({}).exec()
+    return teams.sort((a, b) => {
+      if (a.name < b.name) {
+        return -1
+      }
+
+      if (a.name > b.name) {
+        return 1
+      }
+
+      return 0
+    })
+
   }
 }
