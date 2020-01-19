@@ -1,4 +1,5 @@
 import { Field, ObjectType } from 'type-graphql'
+import Team from './Team'
 
 @ObjectType()
 export default class Game {
@@ -6,8 +7,8 @@ export default class Game {
   startDate: Date
 
   @Field()
-  homeTeamName: string
+  homeTeam: Team
 
   @Field()
-  awayTeamName: string
+  awayTeam: Team
 }

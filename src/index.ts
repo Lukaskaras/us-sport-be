@@ -6,12 +6,19 @@ import config from 'config'
 import { Container } from 'typedi'
 import mongoose from 'mongoose'
 
+type MongoConfig = {
+  userName: string
+  password: string
+  dbName: string
+}
+const mongoConfig: MongoConfig = config.get('mongo')
+
 let server
 async function bootstrap(): Promise<string> {
-  await mongoose.connect('mongodb://root:example@localhost:27017/', {
+  await mongoose.connect(`mongodb://${mongoConfig.userName}:${mongoConfig.password}@localhost:27017/`, {
     useNewUrlParser: true,
     useUnifiedTopology: true,
-    dbName: 'default-db'
+    dbName: mongoConfig.dbName
   })
 
   const schema = await buildSchema({

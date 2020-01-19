@@ -1,0 +1,82 @@
+[
+  {
+    "games": [
+      {
+        "startDate": "2020-02-22T18:00:00.000Z",
+        "homeTeam": {
+          "name": "New Jersey Devils",
+          "externalId": "1"
+        },
+        "awayTeam": {
+          "name": "Washington Capitals",
+          "externalId": "15"
+        }
+      }
+    ],
+    "date": "2020-02-22"
+  },
+  {
+    "games": [
+      {
+        "startDate": "2020-02-29T21:00:00.000Z",
+        "homeTeam": {
+          "name": "Los Angeles Kings",
+          "externalId": "26"
+        },
+        "awayTeam": {
+          "name": "New Jersey Devils",
+          "externalId": "1"
+        }
+      }
+    ],
+    "date": "2020-02-29"
+  },
+  {
+    "games": [
+      {
+        "startDate": "2020-03-15T21:00:00.000Z",
+        "homeTeam": {
+          "name": "Tampa Bay Lightning",
+          "externalId": "14"
+        },
+        "awayTeam": {
+          "name": "New Jersey Devils",
+          "externalId": "1"
+        }
+      }
+    ],
+    "date": "2020-03-15"
+  },
+  {
+    "games": [
+      {
+        "startDate": "2020-03-28T18:00:00.000Z",
+        "homeTeam": {
+          "name": "New Jersey Devils",
+          "externalId": "1"
+        },
+        "awayTeam": {
+          "name": "Philadelphia Flyers",
+          "externalId": "4"
+        }
+      }
+    ],
+    "date": "2020-03-28"
+  },
+  {
+    "games": [
+      {
+        "startDate": "2020-03-29T19:00:00.000Z",
+        "homeTeam": {
+          "name": "New Jersey Devils",
+          "externalId": "1"
+        },
+        "awayTeam": {
+          "name": "Carolina Hurricanes",
+          "externalId": "12"
+        }
+      }
+    ],
+    "date": "2020-03-29"
+  }
+]

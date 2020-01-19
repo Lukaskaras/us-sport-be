@@ -7,12 +7,40 @@ export const getEarlyGames = async (weekStart: string): Promise<GameDay[]> => {
       getEarlyGamesInWeek(weekStart: $weekStart) {
         games {
           startDate
-          homeTeamName
-          awayTeamName
+          homeTeam {
+            name
+            externalId
+          }
+          awayTeam {
+            name
+            externalId
+          }
         }
         date
       }
     }
   `, { weekStart })
   return result.getEarlyGamesInWeek
+}
+
+export const getAllEarlyGamesForTeam = async (teamId: string) => {
+  const result = await client().request(`
+    query getAllEarlyGamesForTeam($teamId: String!) {
+      getAllEarlyGamesForTeam(teamId: $teamId) {
+        games {
+          startDate
+          homeTeam {
+            name
+            externalId
+          }
+          awayTeam {
+            name
+            externalId
+          }
+        }
+        date
+      }
+    }
+  `, { teamId })
+  return result.getAllEarlyGamesForTeam
 }

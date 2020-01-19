@@ -3,5 +3,10 @@
   "port": 4000,
   "nhl": {
     "url": "https://statsapi.web.nhl.com/api/v1"
+  },
+  "mongo": {
+    "dbName": "default-db",
+    "userName": "root",
+    "password": "example"
   }
 }

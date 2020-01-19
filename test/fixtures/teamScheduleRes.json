@@ -1,0 +1,2131 @@
+{
+  "copyright": "NHL and the NHL Shield are registered trademarks of the National Hockey League. NHL and NHL team marks are the property of the NHL and its teams. © NHL 2020. All Rights Reserved.",
+  "totalItems": 34,
+  "totalEvents": 0,
+  "totalGames": 34,
+  "totalMatches": 0,
+  "wait": 10,
+  "dates": [
+    {
+      "date": "2020-01-27",
+      "totalItems": 1,
+      "totalEvents": 0,
+      "totalGames": 1,
+      "totalMatches": 0,
+      "games": [
+        {
+          "gamePk": 2019020769,
+          "link": "/api/v1/game/2019020769/feed/live",
+          "gameType": "R",
+          "season": "20192020",
+          "gameDate": "2020-01-28T00:30:00Z",
+          "status": {
+            "abstractGameState": "Preview",
+            "codedGameState": "1",
+            "detailedState": "Scheduled",
+            "statusCode": "1",
+            "startTimeTBD": false
+          },
+          "teams": {
+            "away": {
+              "leagueRecord": {
+                "wins": 17,
+                "losses": 24,
+                "ot": 7,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 1,
+                "name": "New Jersey Devils",
+                "link": "/api/v1/teams/1"
+              }
+            },
+            "home": {
+              "leagueRecord": {
+                "wins": 17,
+                "losses": 23,
+                "ot": 8,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 9,
+                "name": "Ottawa Senators",
+                "link": "/api/v1/teams/9"
+              }
+            }
+          },
+          "venue": {
+            "id": 5031,
+            "name": "Canadian Tire Centre",
+            "link": "/api/v1/venues/5031"
+          },
+          "content": {
+            "link": "/api/v1/game/2019020769/content"
+          }
+        }
+      ],
+      "events": [],
+      "matches": []
+    },
+    {
+      "date": "2020-01-30",
+      "totalItems": 1,
+      "totalEvents": 0,
+      "totalGames": 1,
+      "totalMatches": 0,
+      "games": [
+        {
+          "gamePk": 2019020783,
+          "link": "/api/v1/game/2019020783/feed/live",
+          "gameType": "R",
+          "season": "20192020",
+          "gameDate": "2020-01-31T00:30:00Z",
+          "status": {
+            "abstractGameState": "Preview",
+            "codedGameState": "1",
+            "detailedState": "Scheduled",
+            "statusCode": "1",
+            "startTimeTBD": false
+          },
+          "teams": {
+            "away": {
+              "leagueRecord": {
+                "wins": 22,
+                "losses": 18,
+                "ot": 7,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 18,
+                "name": "Nashville Predators",
+                "link": "/api/v1/teams/18"
+              }
+            },
+            "home": {
+              "leagueRecord": {
+                "wins": 17,
+                "losses": 24,
+                "ot": 7,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 1,
+                "name": "New Jersey Devils",
+                "link": "/api/v1/teams/1"
+              }
+            }
+          },
+          "venue": {
+            "name": "Prudential Center",
+            "link": "/api/v1/venues/null"
+          },
+          "content": {
+            "link": "/api/v1/game/2019020783/content"
+          }
+        }
+      ],
+      "events": [],
+      "matches": []
+    },
+    {
+      "date": "2020-02-01",
+      "totalItems": 1,
+      "totalEvents": 0,
+      "totalGames": 1,
+      "totalMatches": 0,
+      "games": [
+        {
+          "gamePk": 2019020797,
+          "link": "/api/v1/game/2019020797/feed/live",
+          "gameType": "R",
+          "season": "20192020",
+          "gameDate": "2020-02-02T00:00:00Z",
+          "status": {
+            "abstractGameState": "Preview",
+            "codedGameState": "1",
+            "detailedState": "Scheduled",
+            "statusCode": "1",
+            "startTimeTBD": false
+          },
+          "teams": {
+            "away": {
+              "leagueRecord": {
+                "wins": 27,
+                "losses": 17,
+                "ot": 4,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 25,
+                "name": "Dallas Stars",
+                "link": "/api/v1/teams/25"
+              }
+            },
+            "home": {
+              "leagueRecord": {
+                "wins": 17,
+                "losses": 24,
+                "ot": 7,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 1,
+                "name": "New Jersey Devils",
+                "link": "/api/v1/teams/1"
+              }
+            }
+          },
+          "venue": {
+            "name": "Prudential Center",
+            "link": "/api/v1/venues/null"
+          },
+          "content": {
+            "link": "/api/v1/game/2019020797/content"
+          }
+        }
+      ],
+      "events": [],
+      "matches": []
+    },
+    {
+      "date": "2020-02-04",
+      "totalItems": 1,
+      "totalEvents": 0,
+      "totalGames": 1,
+      "totalMatches": 0,
+      "games": [
+        {
+          "gamePk": 2019020815,
+          "link": "/api/v1/game/2019020815/feed/live",
+          "gameType": "R",
+          "season": "20192020",
+          "gameDate": "2020-02-05T00:00:00Z",
+          "status": {
+            "abstractGameState": "Preview",
+            "codedGameState": "1",
+            "detailedState": "Scheduled",
+            "statusCode": "1",
+            "startTimeTBD": false
+          },
+          "teams": {
+            "away": {
+              "leagueRecord": {
+                "wins": 22,
+                "losses": 21,
+                "ot": 7,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 8,
+                "name": "Montréal Canadiens",
+                "link": "/api/v1/teams/8"
+              }
+            },
+            "home": {
+              "leagueRecord": {
+                "wins": 17,
+                "losses": 24,
+                "ot": 7,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 1,
+                "name": "New Jersey Devils",
+                "link": "/api/v1/teams/1"
+              }
+            }
+          },
+          "venue": {
+            "name": "Prudential Center",
+            "link": "/api/v1/venues/null"
+          },
+          "content": {
+            "link": "/api/v1/game/2019020815/content"
+          }
+        }
+      ],
+      "events": [],
+      "matches": []
+    },
+    {
+      "date": "2020-02-06",
+      "totalItems": 1,
+      "totalEvents": 0,
+      "totalGames": 1,
+      "totalMatches": 0,
+      "games": [
+        {
+          "gamePk": 2019020832,
+          "link": "/api/v1/game/2019020832/feed/live",
+          "gameType": "R",
+          "season": "20192020",
+          "gameDate": "2020-02-07T00:00:00Z",
+          "status": {
+            "abstractGameState": "Preview",
+            "codedGameState": "1",
+            "detailedState": "Scheduled",
+            "statusCode": "1",
+            "startTimeTBD": false
+          },
+          "teams": {
+            "away": {
+              "leagueRecord": {
+                "wins": 17,
+                "losses": 24,
+                "ot": 7,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 1,
+                "name": "New Jersey Devils",
+                "link": "/api/v1/teams/1"
+              }
+            },
+            "home": {
+              "leagueRecord": {
+                "wins": 26,
+                "losses": 17,
+                "ot": 6,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 4,
+                "name": "Philadelphia Flyers",
+                "link": "/api/v1/teams/4"
+              }
+            }
+          },
+          "venue": {
+            "id": 5096,
+            "name": "Wells Fargo Center",
+            "link": "/api/v1/venues/5096"
+          },
+          "content": {
+            "link": "/api/v1/game/2019020832/content"
+          }
+        }
+      ],
+      "events": [],
+      "matches": []
+    },
+    {
+      "date": "2020-02-08",
+      "totalItems": 1,
+      "totalEvents": 0,
+      "totalGames": 1,
+      "totalMatches": 0,
+      "games": [
+        {
+          "gamePk": 2019020848,
+          "link": "/api/v1/game/2019020848/feed/live",
+          "gameType": "R",
+          "season": "20192020",
+          "gameDate": "2020-02-09T00:00:00Z",
+          "status": {
+            "abstractGameState": "Preview",
+            "codedGameState": "1",
+            "detailedState": "Scheduled",
+            "statusCode": "1",
+            "startTimeTBD": false
+          },
+          "teams": {
+            "away": {
+              "leagueRecord": {
+                "wins": 18,
+                "losses": 27,
+                "ot": 5,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 26,
+                "name": "Los Angeles Kings",
+                "link": "/api/v1/teams/26"
+              }
+            },
+            "home": {
+              "leagueRecord": {
+                "wins": 17,
+                "losses": 24,
+                "ot": 7,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 1,
+                "name": "New Jersey Devils",
+                "link": "/api/v1/teams/1"
+              }
+            }
+          },
+          "venue": {
+            "name": "Prudential Center",
+            "link": "/api/v1/venues/null"
+          },
+          "content": {
+            "link": "/api/v1/game/2019020848/content"
+          }
+        }
+      ],
+      "events": [],
+      "matches": []
+    },
+    {
+      "date": "2020-02-11",
+      "totalItems": 1,
+      "totalEvents": 0,
+      "totalGames": 1,
+      "totalMatches": 0,
+      "games": [
+        {
+          "gamePk": 2019020868,
+          "link": "/api/v1/game/2019020868/feed/live",
+          "gameType": "R",
+          "season": "20192020",
+          "gameDate": "2020-02-12T00:00:00Z",
+          "status": {
+            "abstractGameState": "Preview",
+            "codedGameState": "1",
+            "detailedState": "Scheduled",
+            "statusCode": "1",
+            "startTimeTBD": false
+          },
+          "teams": {
+            "away": {
+              "leagueRecord": {
+                "wins": 24,
+                "losses": 16,
+                "ot": 5,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 13,
+                "name": "Florida Panthers",
+                "link": "/api/v1/teams/13"
+              }
+            },
+            "home": {
+              "leagueRecord": {
+                "wins": 17,
+                "losses": 22,
+                "ot": 7,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 1,
+                "name": "New Jersey Devils",
+                "link": "/api/v1/teams/1"
+              }
+            }
+          },
+          "venue": {
+            "name": "Prudential Center",
+            "link": "/api/v1/venues/null"
+          },
+          "content": {
+            "link": "/api/v1/game/2019020868/content"
+          }
+        }
+      ],
+      "events": [],
+      "matches": []
+    },
+    {
+      "date": "2020-02-13",
+      "totalItems": 1,
+      "totalEvents": 0,
+      "totalGames": 1,
+      "totalMatches": 0,
+      "games": [
+        {
+          "gamePk": 2019020884,
+          "link": "/api/v1/game/2019020884/feed/live",
+          "gameType": "R",
+          "season": "20192020",
+          "gameDate": "2020-02-14T00:00:00Z",
+          "status": {
+            "abstractGameState": "Preview",
+            "codedGameState": "1",
+            "detailedState": "Scheduled",
+            "statusCode": "1",
+            "startTimeTBD": false
+          },
+          "teams": {
+            "away": {
+              "leagueRecord": {
+                "wins": 12,
+                "losses": 32,
+                "ot": 3,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 17,
+                "name": "Detroit Red Wings",
+                "link": "/api/v1/teams/17"
+              }
+            },
+            "home": {
+              "leagueRecord": {
+                "wins": 17,
+                "losses": 23,
+                "ot": 7,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 1,
+                "name": "New Jersey Devils",
+                "link": "/api/v1/teams/1"
+              }
+            }
+          },
+          "venue": {
+            "name": "Prudential Center",
+            "link": "/api/v1/venues/null"
+          },
+          "content": {
+            "link": "/api/v1/game/2019020884/content"
+          }
+        }
+      ],
+      "events": [],
+      "matches": []
+    },
+    {
+      "date": "2020-02-14",
+      "totalItems": 1,
+      "totalEvents": 0,
+      "totalGames": 1,
+      "totalMatches": 0,
+      "games": [
+        {
+          "gamePk": 2019020894,
+          "link": "/api/v1/game/2019020894/feed/live",
+          "gameType": "R",
+          "season": "20192020",
+          "gameDate": "2020-02-15T00:00:00Z",
+          "status": {
+            "abstractGameState": "Preview",
+            "codedGameState": "1",
+            "detailedState": "Scheduled",
+            "statusCode": "1",
+            "startTimeTBD": false
+          },
+          "teams": {
+            "away": {
+              "leagueRecord": {
+                "wins": 17,
+                "losses": 23,
+                "ot": 7,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 1,
+                "name": "New Jersey Devils",
+                "link": "/api/v1/teams/1"
+              }
+            },
+            "home": {
+              "leagueRecord": {
+                "wins": 27,
+                "losses": 18,
+                "ot": 2,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 12,
+                "name": "Carolina Hurricanes",
+                "link": "/api/v1/teams/12"
+              }
+            }
+          },
+          "venue": {
+            "id": 5066,
+            "name": "PNC Arena",
+            "link": "/api/v1/venues/5066"
+          },
+          "content": {
+            "link": "/api/v1/game/2019020894/content"
+          }
+        }
+      ],
+      "events": [],
+      "matches": []
+    },
+    {
+      "date": "2020-02-16",
+      "totalItems": 1,
+      "totalEvents": 0,
+      "totalGames": 1,
+      "totalMatches": 0,
+      "games": [
+        {
+          "gamePk": 2019020911,
+          "link": "/api/v1/game/2019020911/feed/live",
+          "gameType": "R",
+          "season": "20192020",
+          "gameDate": "2020-02-16T23:00:00Z",
+          "status": {
+            "abstractGameState": "Preview",
+            "codedGameState": "1",
+            "detailedState": "Scheduled",
+            "statusCode": "1",
+            "startTimeTBD": false
+          },
+          "teams": {
+            "away": {
+              "leagueRecord": {
+                "wins": 23,
+                "losses": 16,
+                "ot": 8,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 29,
+                "name": "Columbus Blue Jackets",
+                "link": "/api/v1/teams/29"
+              }
+            },
+            "home": {
+              "leagueRecord": {
+                "wins": 17,
+                "losses": 22,
+                "ot": 7,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 1,
+                "name": "New Jersey Devils",
+                "link": "/api/v1/teams/1"
+              }
+            }
+          },
+          "venue": {
+            "name": "Prudential Center",
+            "link": "/api/v1/venues/null"
+          },
+          "content": {
+            "link": "/api/v1/game/2019020911/content"
+          }
+        }
+      ],
+      "events": [],
+      "matches": []
+    },
+    {
+      "date": "2020-02-18",
+      "totalItems": 1,
+      "totalEvents": 0,
+      "totalGames": 1,
+      "totalMatches": 0,
+      "games": [
+        {
+          "gamePk": 2019020924,
+          "link": "/api/v1/game/2019020924/feed/live",
+          "gameType": "R",
+          "season": "20192020",
+          "gameDate": "2020-02-19T01:00:00Z",
+          "status": {
+            "abstractGameState": "Preview",
+            "codedGameState": "1",
+            "detailedState": "Scheduled",
+            "statusCode": "1",
+            "startTimeTBD": false
+          },
+          "teams": {
+            "away": {
+              "leagueRecord": {
+                "wins": 17,
+                "losses": 22,
+                "ot": 7,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 1,
+                "name": "New Jersey Devils",
+                "link": "/api/v1/teams/1"
+              }
+            },
+            "home": {
+              "leagueRecord": {
+                "wins": 30,
+                "losses": 10,
+                "ot": 8,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 19,
+                "name": "St. Louis Blues",
+                "link": "/api/v1/teams/19"
+              }
+            }
+          },
+          "venue": {
+            "id": 5076,
+            "name": "Enterprise Center",
+            "link": "/api/v1/venues/5076"
+          },
+          "content": {
+            "link": "/api/v1/game/2019020924/content"
+          }
+        }
+      ],
+      "events": [],
+      "matches": []
+    },
+    {
+      "date": "2020-02-20",
+      "totalItems": 1,
+      "totalEvents": 0,
+      "totalGames": 1,
+      "totalMatches": 0,
+      "games": [
+        {
+          "gamePk": 2019020934,
+          "link": "/api/v1/game/2019020934/feed/live",
+          "gameType": "R",
+          "season": "20192020",
+          "gameDate": "2020-02-21T00:00:00Z",
+          "status": {
+            "abstractGameState": "Preview",
+            "codedGameState": "1",
+            "detailedState": "Scheduled",
+            "statusCode": "1",
+            "startTimeTBD": false
+          },
+          "teams": {
+            "away": {
+              "leagueRecord": {
+                "wins": 21,
+                "losses": 24,
+                "ot": 4,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 28,
+                "name": "San Jose Sharks",
+                "link": "/api/v1/teams/28"
+              }
+            },
+            "home": {
+              "leagueRecord": {
+                "wins": 17,
+                "losses": 23,
+                "ot": 7,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 1,
+                "name": "New Jersey Devils",
+                "link": "/api/v1/teams/1"
+              }
+            }
+          },
+          "venue": {
+            "name": "Prudential Center",
+            "link": "/api/v1/venues/null"
+          },
+          "content": {
+            "link": "/api/v1/game/2019020934/content"
+          }
+        }
+      ],
+      "events": [],
+      "matches": []
+    },
+    {
+      "date": "2020-02-22",
+      "totalItems": 1,
+      "totalEvents": 0,
+      "totalGames": 1,
+      "totalMatches": 0,
+      "games": [
+        {
+          "gamePk": 2019020948,
+          "link": "/api/v1/game/2019020948/feed/live",
+          "gameType": "R",
+          "season": "20192020",
+          "gameDate": "2020-02-22T18:00:00Z",
+          "status": {
+            "abstractGameState": "Preview",
+            "codedGameState": "1",
+            "detailedState": "Scheduled",
+            "statusCode": "1",
+            "startTimeTBD": false
+          },
+          "teams": {
+            "away": {
+              "leagueRecord": {
+                "wins": 32,
+                "losses": 11,
+                "ot": 5,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 15,
+                "name": "Washington Capitals",
+                "link": "/api/v1/teams/15"
+              }
+            },
+            "home": {
+              "leagueRecord": {
+                "wins": 17,
+                "losses": 23,
+                "ot": 7,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 1,
+                "name": "New Jersey Devils",
+                "link": "/api/v1/teams/1"
+              }
+            }
+          },
+          "venue": {
+            "name": "Prudential Center",
+            "link": "/api/v1/venues/null"
+          },
+          "content": {
+            "link": "/api/v1/game/2019020948/content"
+          }
+        }
+      ],
+      "events": [],
+      "matches": []
+    },
+    {
+      "date": "2020-02-25",
+      "totalItems": 1,
+      "totalEvents": 0,
+      "totalGames": 1,
+      "totalMatches": 0,
+      "games": [
+        {
+          "gamePk": 2019020975,
+          "link": "/api/v1/game/2019020975/feed/live",
+          "gameType": "R",
+          "season": "20192020",
+          "gameDate": "2020-02-26T00:30:00Z",
+          "status": {
+            "abstractGameState": "Preview",
+            "codedGameState": "1",
+            "detailedState": "Scheduled",
+            "statusCode": "1",
+            "startTimeTBD": false
+          },
+          "teams": {
+            "away": {
+              "leagueRecord": {
+                "wins": 17,
+                "losses": 22,
+                "ot": 7,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 1,
+                "name": "New Jersey Devils",
+                "link": "/api/v1/teams/1"
+              }
+            },
+            "home": {
+              "leagueRecord": {
+                "wins": 12,
+                "losses": 32,
+                "ot": 3,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 17,
+                "name": "Detroit Red Wings",
+                "link": "/api/v1/teams/17"
+              }
+            }
+          },
+          "venue": {
+            "id": 5145,
+            "name": "Little Caesars Arena",
+            "link": "/api/v1/venues/5145"
+          },
+          "content": {
+            "link": "/api/v1/game/2019020975/content"
+          }
+        }
+      ],
+      "events": [],
+      "matches": []
+    },
+    {
+      "date": "2020-02-27",
+      "totalItems": 1,
+      "totalEvents": 0,
+      "totalGames": 1,
+      "totalMatches": 0,
+      "games": [
+        {
+          "gamePk": 2019020993,
+          "link": "/api/v1/game/2019020993/feed/live",
+          "gameType": "R",
+          "season": "20192020",
+          "gameDate": "2020-02-28T03:30:00Z",
+          "status": {
+            "abstractGameState": "Preview",
+            "codedGameState": "1",
+            "detailedState": "Scheduled",
+            "statusCode": "1",
+            "startTimeTBD": false
+          },
+          "teams": {
+            "away": {
+              "leagueRecord": {
+                "wins": 17,
+                "losses": 23,
+                "ot": 7,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 1,
+                "name": "New Jersey Devils",
+                "link": "/api/v1/teams/1"
+              }
+            },
+            "home": {
+              "leagueRecord": {
+                "wins": 21,
+                "losses": 24,
+                "ot": 4,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 28,
+                "name": "San Jose Sharks",
+                "link": "/api/v1/teams/28"
+              }
+            }
+          },
+          "venue": {
+            "name": "SAP Center at San Jose",
+            "link": "/api/v1/venues/null"
+          },
+          "content": {
+            "link": "/api/v1/game/2019020993/content"
+          }
+        }
+      ],
+      "events": [],
+      "matches": []
+    },
+    {
+      "date": "2020-02-29",
+      "totalItems": 1,
+      "totalEvents": 0,
+      "totalGames": 1,
+      "totalMatches": 0,
+      "games": [
+        {
+          "gamePk": 2019021001,
+          "link": "/api/v1/game/2019021001/feed/live",
+          "gameType": "R",
+          "season": "20192020",
+          "gameDate": "2020-02-29T21:00:00Z",
+          "status": {
+            "abstractGameState": "Preview",
+            "codedGameState": "1",
+            "detailedState": "Scheduled",
+            "statusCode": "1",
+            "startTimeTBD": false
+          },
+          "teams": {
+            "away": {
+              "leagueRecord": {
+                "wins": 17,
+                "losses": 23,
+                "ot": 7,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 1,
+                "name": "New Jersey Devils",
+                "link": "/api/v1/teams/1"
+              }
+            },
+            "home": {
+              "leagueRecord": {
+                "wins": 18,
+                "losses": 26,
+                "ot": 5,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 26,
+                "name": "Los Angeles Kings",
+                "link": "/api/v1/teams/26"
+              }
+            }
+          },
+          "venue": {
+            "id": 5081,
+            "name": "STAPLES Center",
+            "link": "/api/v1/venues/5081"
+          },
+          "content": {
+            "link": "/api/v1/game/2019021001/content"
+          }
+        }
+      ],
+      "events": [],
+      "matches": []
+    },
+    {
+      "date": "2020-03-01",
+      "totalItems": 1,
+      "totalEvents": 0,
+      "totalGames": 1,
+      "totalMatches": 0,
+      "games": [
+        {
+          "gamePk": 2019021015,
+          "link": "/api/v1/game/2019021015/feed/live",
+          "gameType": "R",
+          "season": "20192020",
+          "gameDate": "2020-03-02T01:00:00Z",
+          "status": {
+            "abstractGameState": "Preview",
+            "codedGameState": "1",
+            "detailedState": "Scheduled",
+            "statusCode": "1",
+            "startTimeTBD": false
+          },
+          "teams": {
+            "away": {
+              "leagueRecord": {
+                "wins": 17,
+                "losses": 23,
+                "ot": 7,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 1,
+                "name": "New Jersey Devils",
+                "link": "/api/v1/teams/1"
+              }
+            },
+            "home": {
+              "leagueRecord": {
+                "wins": 18,
+                "losses": 24,
+                "ot": 5,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 24,
+                "name": "Anaheim Ducks",
+                "link": "/api/v1/teams/24"
+              }
+            }
+          },
+          "venue": {
+            "id": 5046,
+            "name": "Honda Center",
+            "link": "/api/v1/venues/5046"
+          },
+          "content": {
+            "link": "/api/v1/game/2019021015/content"
+          }
+        }
+      ],
+      "events": [],
+      "matches": []
+    },
+    {
+      "date": "2020-03-03",
+      "totalItems": 1,
+      "totalEvents": 0,
+      "totalGames": 1,
+      "totalMatches": 0,
+      "games": [
+        {
+          "gamePk": 2019021027,
+          "link": "/api/v1/game/2019021027/feed/live",
+          "gameType": "R",
+          "season": "20192020",
+          "gameDate": "2020-03-04T03:00:00Z",
+          "status": {
+            "abstractGameState": "Preview",
+            "codedGameState": "1",
+            "detailedState": "Scheduled",
+            "statusCode": "1",
+            "startTimeTBD": false
+          },
+          "teams": {
+            "away": {
+              "leagueRecord": {
+                "wins": 17,
+                "losses": 22,
+                "ot": 7,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 1,
+                "name": "New Jersey Devils",
+                "link": "/api/v1/teams/1"
+              }
+            },
+            "home": {
+              "leagueRecord": {
+                "wins": 24,
+                "losses": 19,
+                "ot": 6,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 54,
+                "name": "Vegas Golden Knights",
+                "link": "/api/v1/teams/54"
+              }
+            }
+          },
+          "venue": {
+            "id": 5178,
+            "name": "T-Mobile Arena",
+            "link": "/api/v1/venues/5178"
+          },
+          "content": {
+            "link": "/api/v1/game/2019021027/content"
+          }
+        }
+      ],
+      "events": [],
+      "matches": []
+    },
+    {
+      "date": "2020-03-06",
+      "totalItems": 1,
+      "totalEvents": 0,
+      "totalGames": 1,
+      "totalMatches": 0,
+      "games": [
+        {
+          "gamePk": 2019021043,
+          "link": "/api/v1/game/2019021043/feed/live",
+          "gameType": "R",
+          "season": "20192020",
+          "gameDate": "2020-03-07T00:00:00Z",
+          "status": {
+            "abstractGameState": "Preview",
+            "codedGameState": "1",
+            "detailedState": "Scheduled",
+            "statusCode": "1",
+            "startTimeTBD": false
+          },
+          "teams": {
+            "away": {
+              "leagueRecord": {
+                "wins": 30,
+                "losses": 10,
+                "ot": 8,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 19,
+                "name": "St. Louis Blues",
+                "link": "/api/v1/teams/19"
+              }
+            },
+            "home": {
+              "leagueRecord": {
+                "wins": 17,
+                "losses": 22,
+                "ot": 7,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 1,
+                "name": "New Jersey Devils",
+                "link": "/api/v1/teams/1"
+              }
+            }
+          },
+          "venue": {
+            "name": "Prudential Center",
+            "link": "/api/v1/venues/null"
+          },
+          "content": {
+            "link": "/api/v1/game/2019021043/content"
+          }
+        }
+      ],
+      "events": [],
+      "matches": []
+    },
+    {
+      "date": "2020-03-07",
+      "totalItems": 1,
+      "totalEvents": 0,
+      "totalGames": 1,
+      "totalMatches": 0,
+      "games": [
+        {
+          "gamePk": 2019021055,
+          "link": "/api/v1/game/2019021055/feed/live",
+          "gameType": "R",
+          "season": "20192020",
+          "gameDate": "2020-03-08T00:00:00Z",
+          "status": {
+            "abstractGameState": "Preview",
+            "codedGameState": "1",
+            "detailedState": "Scheduled",
+            "statusCode": "1",
+            "startTimeTBD": false
+          },
+          "teams": {
+            "away": {
+              "leagueRecord": {
+                "wins": 17,
+                "losses": 22,
+                "ot": 7,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 1,
+                "name": "New Jersey Devils",
+                "link": "/api/v1/teams/1"
+              }
+            },
+            "home": {
+              "leagueRecord": {
+                "wins": 22,
+                "losses": 19,
+                "ot": 4,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 3,
+                "name": "New York Rangers",
+                "link": "/api/v1/teams/3"
+              }
+            }
+          },
+          "venue": {
+            "id": 5054,
+            "name": "Madison Square Garden",
+            "link": "/api/v1/venues/5054"
+          },
+          "content": {
+            "link": "/api/v1/game/2019021055/content"
+          }
+        }
+      ],
+      "events": [],
+      "matches": []
+    },
+    {
+      "date": "2020-03-10",
+      "totalItems": 1,
+      "totalEvents": 0,
+      "totalGames": 1,
+      "totalMatches": 0,
+      "games": [
+        {
+          "gamePk": 2019021072,
+          "link": "/api/v1/game/2019021072/feed/live",
+          "gameType": "R",
+          "season": "20192020",
+          "gameDate": "2020-03-10T23:00:00Z",
+          "status": {
+            "abstractGameState": "Preview",
+            "codedGameState": "1",
+            "detailedState": "Scheduled",
+            "statusCode": "1",
+            "startTimeTBD": false
+          },
+          "teams": {
+            "away": {
+              "leagueRecord": {
+                "wins": 29,
+                "losses": 12,
+                "ot": 5,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 5,
+                "name": "Pittsburgh Penguins",
+                "link": "/api/v1/teams/5"
+              }
+            },
+            "home": {
+              "leagueRecord": {
+                "wins": 17,
+                "losses": 22,
+                "ot": 7,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 1,
+                "name": "New Jersey Devils",
+                "link": "/api/v1/teams/1"
+              }
+            }
+          },
+          "venue": {
+            "name": "Prudential Center",
+            "link": "/api/v1/venues/null"
+          },
+          "content": {
+            "link": "/api/v1/game/2019021072/content"
+          }
+        }
+      ],
+      "events": [],
+      "matches": []
+    },
+    {
+      "date": "2020-03-12",
+      "totalItems": 1,
+      "totalEvents": 0,
+      "totalGames": 1,
+      "totalMatches": 0,
+      "games": [
+        {
+          "gamePk": 2019021086,
+          "link": "/api/v1/game/2019021086/feed/live",
+          "gameType": "R",
+          "season": "20192020",
+          "gameDate": "2020-03-12T23:00:00Z",
+          "status": {
+            "abstractGameState": "Preview",
+            "codedGameState": "1",
+            "detailedState": "Scheduled",
+            "statusCode": "1",
+            "startTimeTBD": false
+          },
+          "teams": {
+            "away": {
+              "leagueRecord": {
+                "wins": 27,
+                "losses": 17,
+                "ot": 2,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 12,
+                "name": "Carolina Hurricanes",
+                "link": "/api/v1/teams/12"
+              }
+            },
+            "home": {
+              "leagueRecord": {
+                "wins": 17,
+                "losses": 22,
+                "ot": 7,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 1,
+                "name": "New Jersey Devils",
+                "link": "/api/v1/teams/1"
+              }
+            }
+          },
+          "venue": {
+            "name": "Prudential Center",
+            "link": "/api/v1/venues/null"
+          },
+          "content": {
+            "link": "/api/v1/game/2019021086/content"
+          }
+        }
+      ],
+      "events": [],
+      "matches": []
+    },
+    {
+      "date": "2020-03-14",
+      "totalItems": 1,
+      "totalEvents": 0,
+      "totalGames": 1,
+      "totalMatches": 0,
+      "games": [
+        {
+          "gamePk": 2019021102,
+          "link": "/api/v1/game/2019021102/feed/live",
+          "gameType": "R",
+          "season": "20192020",
+          "gameDate": "2020-03-14T23:00:00Z",
+          "status": {
+            "abstractGameState": "Preview",
+            "codedGameState": "1",
+            "detailedState": "Scheduled",
+            "statusCode": "1",
+            "startTimeTBD": false
+          },
+          "teams": {
+            "away": {
+              "leagueRecord": {
+                "wins": 17,
+                "losses": 22,
+                "ot": 7,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 1,
+                "name": "New Jersey Devils",
+                "link": "/api/v1/teams/1"
+              }
+            },
+            "home": {
+              "leagueRecord": {
+                "wins": 24,
+                "losses": 16,
+                "ot": 5,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 13,
+                "name": "Florida Panthers",
+                "link": "/api/v1/teams/13"
+              }
+            }
+          },
+          "venue": {
+            "id": 5027,
+            "name": "BB&T Center",
+            "link": "/api/v1/venues/5027"
+          },
+          "content": {
+            "link": "/api/v1/game/2019021102/content"
+          }
+        }
+      ],
+      "events": [],
+      "matches": []
+    },
+    {
+      "date": "2020-03-15",
+      "totalItems": 1,
+      "totalEvents": 0,
+      "totalGames": 1,
+      "totalMatches": 0,
+      "games": [
+        {
+          "gamePk": 2019021114,
+          "link": "/api/v1/game/2019021114/feed/live",
+          "gameType": "R",
+          "season": "20192020",
+          "gameDate": "2020-03-15T21:00:00Z",
+          "status": {
+            "abstractGameState": "Preview",
+            "codedGameState": "1",
+            "detailedState": "Scheduled",
+            "statusCode": "1",
+            "startTimeTBD": false
+          },
+          "teams": {
+            "away": {
+              "leagueRecord": {
+                "wins": 17,
+                "losses": 22,
+                "ot": 7,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 1,
+                "name": "New Jersey Devils",
+                "link": "/api/v1/teams/1"
+              }
+            },
+            "home": {
+              "leagueRecord": {
+                "wins": 28,
+                "losses": 14,
+                "ot": 4,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 14,
+                "name": "Tampa Bay Lightning",
+                "link": "/api/v1/teams/14"
+              }
+            }
+          },
+          "venue": {
+            "id": 5017,
+            "name": "Amalie Arena",
+            "link": "/api/v1/venues/5017"
+          },
+          "content": {
+            "link": "/api/v1/game/2019021114/content"
+          }
+        }
+      ],
+      "events": [],
+      "matches": []
+    },
+    {
+      "date": "2020-03-17",
+      "totalItems": 1,
+      "totalEvents": 0,
+      "totalGames": 1,
+      "totalMatches": 0,
+      "games": [
+        {
+          "gamePk": 2019021123,
+          "link": "/api/v1/game/2019021123/feed/live",
+          "gameType": "R",
+          "season": "20192020",
+          "gameDate": "2020-03-17T23:00:00Z",
+          "status": {
+            "abstractGameState": "Preview",
+            "codedGameState": "1",
+            "detailedState": "Scheduled",
+            "statusCode": "1",
+            "startTimeTBD": false
+          },
+          "teams": {
+            "away": {
+              "leagueRecord": {
+                "wins": 17,
+                "losses": 22,
+                "ot": 7,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 1,
+                "name": "New Jersey Devils",
+                "link": "/api/v1/teams/1"
+              }
+            },
+            "home": {
+              "leagueRecord": {
+                "wins": 25,
+                "losses": 16,
+                "ot": 6,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 10,
+                "name": "Toronto Maple Leafs",
+                "link": "/api/v1/teams/10"
+              }
+            }
+          },
+          "venue": {
+            "name": "Scotiabank Arena",
+            "link": "/api/v1/venues/null"
+          },
+          "content": {
+            "link": "/api/v1/game/2019021123/content"
+          }
+        }
+      ],
+      "events": [],
+      "matches": []
+    },
+    {
+      "date": "2020-03-19",
+      "totalItems": 1,
+      "totalEvents": 0,
+      "totalGames": 1,
+      "totalMatches": 0,
+      "games": [
+        {
+          "gamePk": 2019021139,
+          "link": "/api/v1/game/2019021139/feed/live",
+          "gameType": "R",
+          "season": "20192020",
+          "gameDate": "2020-03-19T23:00:00Z",
+          "status": {
+            "abstractGameState": "Preview",
+            "codedGameState": "1",
+            "detailedState": "Scheduled",
+            "statusCode": "1",
+            "startTimeTBD": false
+          },
+          "teams": {
+            "away": {
+              "leagueRecord": {
+                "wins": 25,
+                "losses": 18,
+                "ot": 5,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 20,
+                "name": "Calgary Flames",
+                "link": "/api/v1/teams/20"
+              }
+            },
+            "home": {
+              "leagueRecord": {
+                "wins": 17,
+                "losses": 22,
+                "ot": 7,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 1,
+                "name": "New Jersey Devils",
+                "link": "/api/v1/teams/1"
+              }
+            }
+          },
+          "venue": {
+            "name": "Prudential Center",
+            "link": "/api/v1/venues/null"
+          },
+          "content": {
+            "link": "/api/v1/game/2019021139/content"
+          }
+        }
+      ],
+      "events": [],
+      "matches": []
+    },
+    {
+      "date": "2020-03-21",
+      "totalItems": 1,
+      "totalEvents": 0,
+      "totalGames": 1,
+      "totalMatches": 0,
+      "games": [
+        {
+          "gamePk": 2019021156,
+          "link": "/api/v1/game/2019021156/feed/live",
+          "gameType": "R",
+          "season": "20192020",
+          "gameDate": "2020-03-21T23:00:00Z",
+          "status": {
+            "abstractGameState": "Preview",
+            "codedGameState": "1",
+            "detailedState": "Scheduled",
+            "statusCode": "1",
+            "startTimeTBD": false
+          },
+          "teams": {
+            "away": {
+              "leagueRecord": {
+                "wins": 28,
+                "losses": 13,
+                "ot": 4,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 2,
+                "name": "New York Islanders",
+                "link": "/api/v1/teams/2"
+              }
+            },
+            "home": {
+              "leagueRecord": {
+                "wins": 17,
+                "losses": 22,
+                "ot": 7,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 1,
+                "name": "New Jersey Devils",
+                "link": "/api/v1/teams/1"
+              }
+            }
+          },
+          "venue": {
+            "name": "Prudential Center",
+            "link": "/api/v1/venues/null"
+          },
+          "content": {
+            "link": "/api/v1/game/2019021156/content"
+          }
+        }
+      ],
+      "events": [],
+      "matches": []
+    },
+    {
+      "date": "2020-03-23",
+      "totalItems": 1,
+      "totalEvents": 0,
+      "totalGames": 1,
+      "totalMatches": 0,
+      "games": [
+        {
+          "gamePk": 2019021171,
+          "link": "/api/v1/game/2019021171/feed/live",
+          "gameType": "R",
+          "season": "20192020",
+          "gameDate": "2020-03-23T23:00:00Z",
+          "status": {
+            "abstractGameState": "Preview",
+            "codedGameState": "1",
+            "detailedState": "Scheduled",
+            "statusCode": "1",
+            "startTimeTBD": false
+          },
+          "teams": {
+            "away": {
+              "leagueRecord": {
+                "wins": 23,
+                "losses": 16,
+                "ot": 8,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 29,
+                "name": "Columbus Blue Jackets",
+                "link": "/api/v1/teams/29"
+              }
+            },
+            "home": {
+              "leagueRecord": {
+                "wins": 17,
+                "losses": 22,
+                "ot": 7,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 1,
+                "name": "New Jersey Devils",
+                "link": "/api/v1/teams/1"
+              }
+            }
+          },
+          "venue": {
+            "name": "Prudential Center",
+            "link": "/api/v1/venues/null"
+          },
+          "content": {
+            "link": "/api/v1/game/2019021171/content"
+          }
+        }
+      ],
+      "events": [],
+      "matches": []
+    },
+    {
+      "date": "2020-03-26",
+      "totalItems": 1,
+      "totalEvents": 0,
+      "totalGames": 1,
+      "totalMatches": 0,
+      "games": [
+        {
+          "gamePk": 2019021198,
+          "link": "/api/v1/game/2019021198/feed/live",
+          "gameType": "R",
+          "season": "20192020",
+          "gameDate": "2020-03-27T00:00:00Z",
+          "status": {
+            "abstractGameState": "Preview",
+            "codedGameState": "1",
+            "detailedState": "Scheduled",
+            "statusCode": "1",
+            "startTimeTBD": false
+          },
+          "teams": {
+            "away": {
+              "leagueRecord": {
+                "wins": 17,
+                "losses": 22,
+                "ot": 7,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 1,
+                "name": "New Jersey Devils",
+                "link": "/api/v1/teams/1"
+              }
+            },
+            "home": {
+              "leagueRecord": {
+                "wins": 20,
+                "losses": 20,
+                "ot": 6,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 30,
+                "name": "Minnesota Wild",
+                "link": "/api/v1/teams/30"
+              }
+            }
+          },
+          "venue": {
+            "id": 5098,
+            "name": "Xcel Energy Center",
+            "link": "/api/v1/venues/5098"
+          },
+          "content": {
+            "link": "/api/v1/game/2019021198/content"
+          }
+        }
+      ],
+      "events": [],
+      "matches": []
+    },
+    {
+      "date": "2020-03-28",
+      "totalItems": 1,
+      "totalEvents": 0,
+      "totalGames": 1,
+      "totalMatches": 0,
+      "games": [
+        {
+          "gamePk": 2019021205,
+          "link": "/api/v1/game/2019021205/feed/live",
+          "gameType": "R",
+          "season": "20192020",
+          "gameDate": "2020-03-28T18:00:00Z",
+          "status": {
+            "abstractGameState": "Preview",
+            "codedGameState": "1",
+            "detailedState": "Scheduled",
+            "statusCode": "1",
+            "startTimeTBD": false
+          },
+          "teams": {
+            "away": {
+              "leagueRecord": {
+                "wins": 25,
+                "losses": 16,
+                "ot": 6,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 4,
+                "name": "Philadelphia Flyers",
+                "link": "/api/v1/teams/4"
+              }
+            },
+            "home": {
+              "leagueRecord": {
+                "wins": 17,
+                "losses": 22,
+                "ot": 7,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 1,
+                "name": "New Jersey Devils",
+                "link": "/api/v1/teams/1"
+              }
+            }
+          },
+          "venue": {
+            "name": "Prudential Center",
+            "link": "/api/v1/venues/null"
+          },
+          "content": {
+            "link": "/api/v1/game/2019021205/content"
+          }
+        }
+      ],
+      "events": [],
+      "matches": []
+    },
+    {
+      "date": "2020-03-29",
+      "totalItems": 1,
+      "totalEvents": 0,
+      "totalGames": 1,
+      "totalMatches": 0,
+      "games": [
+        {
+          "gamePk": 2019021217,
+          "link": "/api/v1/game/2019021217/feed/live",
+          "gameType": "R",
+          "season": "20192020",
+          "gameDate": "2020-03-29T19:00:00Z",
+          "status": {
+            "abstractGameState": "Preview",
+            "codedGameState": "1",
+            "detailedState": "Scheduled",
+            "statusCode": "1",
+            "startTimeTBD": false
+          },
+          "teams": {
+            "away": {
+              "leagueRecord": {
+                "wins": 27,
+                "losses": 17,
+                "ot": 2,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 12,
+                "name": "Carolina Hurricanes",
+                "link": "/api/v1/teams/12"
+              }
+            },
+            "home": {
+              "leagueRecord": {
+                "wins": 17,
+                "losses": 22,
+                "ot": 7,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 1,
+                "name": "New Jersey Devils",
+                "link": "/api/v1/teams/1"
+              }
+            }
+          },
+          "venue": {
+            "name": "Prudential Center",
+            "link": "/api/v1/venues/null"
+          },
+          "content": {
+            "link": "/api/v1/game/2019021217/content"
+          }
+        }
+      ],
+      "events": [],
+      "matches": []
+    },
+    {
+      "date": "2020-03-31",
+      "totalItems": 1,
+      "totalEvents": 0,
+      "totalGames": 1,
+      "totalMatches": 0,
+      "games": [
+        {
+          "gamePk": 2019021230,
+          "link": "/api/v1/game/2019021230/feed/live",
+          "gameType": "R",
+          "season": "20192020",
+          "gameDate": "2020-03-31T23:00:00Z",
+          "status": {
+            "abstractGameState": "Preview",
+            "codedGameState": "1",
+            "detailedState": "Scheduled",
+            "statusCode": "1",
+            "startTimeTBD": false
+          },
+          "teams": {
+            "away": {
+              "leagueRecord": {
+                "wins": 17,
+                "losses": 22,
+                "ot": 7,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 1,
+                "name": "New Jersey Devils",
+                "link": "/api/v1/teams/1"
+              }
+            },
+            "home": {
+              "leagueRecord": {
+                "wins": 29,
+                "losses": 12,
+                "ot": 5,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 5,
+                "name": "Pittsburgh Penguins",
+                "link": "/api/v1/teams/5"
+              }
+            }
+          },
+          "venue": {
+            "id": 5034,
+            "name": "PPG Paints Arena",
+            "link": "/api/v1/venues/5034"
+          },
+          "content": {
+            "link": "/api/v1/game/2019021230/content"
+          }
+        }
+      ],
+      "events": [],
+      "matches": []
+    },
+    {
+      "date": "2020-04-02",
+      "totalItems": 1,
+      "totalEvents": 0,
+      "totalGames": 1,
+      "totalMatches": 0,
+      "games": [
+        {
+          "gamePk": 2019021244,
+          "link": "/api/v1/game/2019021244/feed/live",
+          "gameType": "R",
+          "season": "20192020",
+          "gameDate": "2020-04-02T23:00:00Z",
+          "status": {
+            "abstractGameState": "Preview",
+            "codedGameState": "1",
+            "detailedState": "Scheduled",
+            "statusCode": "1",
+            "startTimeTBD": false
+          },
+          "teams": {
+            "away": {
+              "leagueRecord": {
+                "wins": 21,
+                "losses": 19,
+                "ot": 7,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 7,
+                "name": "Buffalo Sabres",
+                "link": "/api/v1/teams/7"
+              }
+            },
+            "home": {
+              "leagueRecord": {
+                "wins": 17,
+                "losses": 22,
+                "ot": 7,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 1,
+                "name": "New Jersey Devils",
+                "link": "/api/v1/teams/1"
+              }
+            }
+          },
+          "venue": {
+            "name": "Prudential Center",
+            "link": "/api/v1/venues/null"
+          },
+          "content": {
+            "link": "/api/v1/game/2019021244/content"
+          }
+        }
+      ],
+      "events": [],
+      "matches": []
+    },
+    {
+      "date": "2020-04-04",
+      "totalItems": 1,
+      "totalEvents": 0,
+      "totalGames": 1,
+      "totalMatches": 0,
+      "games": [
+        {
+          "gamePk": 2019021266,
+          "link": "/api/v1/game/2019021266/feed/live",
+          "gameType": "R",
+          "season": "20192020",
+          "gameDate": "2020-04-04T23:00:00Z",
+          "status": {
+            "abstractGameState": "Preview",
+            "codedGameState": "1",
+            "detailedState": "Scheduled",
+            "statusCode": "1",
+            "startTimeTBD": false
+          },
+          "teams": {
+            "away": {
+              "leagueRecord": {
+                "wins": 17,
+                "losses": 22,
+                "ot": 7,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 1,
+                "name": "New Jersey Devils",
+                "link": "/api/v1/teams/1"
+              }
+            },
+            "home": {
+              "leagueRecord": {
+                "wins": 28,
+                "losses": 13,
+                "ot": 4,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 2,
+                "name": "New York Islanders",
+                "link": "/api/v1/teams/2"
+              }
+            }
+          },
+          "venue": {
+            "name": "NYCB Live/Nassau Coliseum",
+            "link": "/api/v1/venues/null"
+          },
+          "content": {
+            "link": "/api/v1/game/2019021266/content"
+          }
+        }
+      ],
+      "events": [],
+      "matches": []
+    }
+  ]
+}

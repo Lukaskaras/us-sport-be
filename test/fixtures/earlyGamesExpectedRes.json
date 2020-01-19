@@ -23,23 +23,47 @@
     "games": [
       {
         "startDate": "2019-12-14T18:00:00.000Z",
-        "homeTeamName": "Ottawa Senators",
-        "awayTeamName": "Columbus Blue Jackets"
+        "homeTeam": {
+          "name": "Ottawa Senators",
+          "externalId": "9"
+        },
+        "awayTeam": {
+          "name": "Columbus Blue Jackets",
+          "externalId": "29"
+        }
       },
       {
         "startDate": "2019-12-14T18:00:00.000Z",
-        "homeTeamName": "New York Islanders",
-        "awayTeamName": "Buffalo Sabres"
+        "homeTeam": {
+          "name": "New York Islanders",
+          "externalId": "2"
+        },
+        "awayTeam": {
+          "name": "Buffalo Sabres",
+          "externalId": "7"
+        }
       },
       {
         "startDate": "2019-12-14T21:00:00.000Z",
-        "homeTeamName": "Anaheim Ducks",
-        "awayTeamName": "New York Rangers"
+        "homeTeam": {
+          "name": "Anaheim Ducks",
+          "externalId": "24"
+        },
+        "awayTeam": {
+          "name": "New York Rangers",
+          "externalId": "3"
+        }
       },
       {
         "startDate": "2019-12-14T21:00:00.000Z",
-        "homeTeamName": "Calgary Flames",
-        "awayTeamName": "Carolina Hurricanes"
+        "homeTeam": {
+          "name": "Calgary Flames",
+          "externalId": "20"
+        },
+        "awayTeam": {
+          "name": "Carolina Hurricanes",
+          "externalId": "12"
+        }
       }
     ],
     "date": "2019-12-14"
@@ -48,8 +72,14 @@
     "games": [
       {
         "startDate": "2019-12-15T22:00:00.000Z",
-        "homeTeamName": "Winnipeg Jets",
-        "awayTeamName": "Philadelphia Flyers"
+        "homeTeam": {
+          "name": "Winnipeg Jets",
+          "externalId": "52"
+        },
+        "awayTeam": {
+          "name": "Philadelphia Flyers",
+          "externalId": "4"
+        }
       }
     ],
     "date": "2019-12-15"

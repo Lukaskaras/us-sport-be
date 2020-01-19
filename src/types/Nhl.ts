@@ -23,4 +23,9 @@ export type NhlTeam = {
 
 export type TeamDetail = {
   name: string
+  id: string
+}
+
+export type TeamsRes = {
+  teams: TeamDetail[]
 }

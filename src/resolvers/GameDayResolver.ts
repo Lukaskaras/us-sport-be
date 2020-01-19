@@ -14,4 +14,9 @@ export default class GameDayResolver {
   public async getEarlyGamesInWeek(@Arg('weekStart', type => GraphQLDate) weekStart: Date): Promise<GameDay[]> {
     return this.nhlService.getGamesForWeek(weekStart)
   }
+
+  @Query(returns => [ GameDay ])
+  public async getAllEarlyGamesForTeam(@Arg('teamId') teamId: string): Promise<GameDay[]> {
+    return this.nhlService.getGamesForTeam(teamId)
+  }
 }
