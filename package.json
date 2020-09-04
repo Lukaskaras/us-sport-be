@@ -40,7 +40,7 @@
     "moment": "^2.24.0",
     "mongoose": "^5.8.9",
     "reflect-metadata": "^0.1.13",
-    "type-graphql": "^0.17.5",
+    "type-graphql": "^0.17.6",
     "typedi": "^0.8.0"
   }
 }
