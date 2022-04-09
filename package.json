@@ -37,7 +37,7 @@
     "config": "^3.2.4",
     "graphql": "^14.5.8",
     "graphql-iso-date": "^3.6.1",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "mongoose": "^5.8.9",
     "reflect-metadata": "^0.1.13",
     "type-graphql": "^0.17.5",
